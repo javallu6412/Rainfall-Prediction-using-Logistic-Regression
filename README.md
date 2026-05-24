@@ -66,3 +66,35 @@ The architecture enables efficient rainfall prediction using historical weather 
 ![Real-Time Scam Detection Architecture](assets/architecture.png)
 
 ---
+
+## Model & Technologies Used
+
+| Category | Technology / Model |
+|---|---|
+| Programming Language | R |
+| Development Environment | RStudio |
+| Machine Learning Model | Logistic Regression |
+| Prediction Type | Binary Classification |
+| Dataset Format | CSV |
+| Data Processing | Base R |
+| Visualization | Scatter Plots, Confusion Matrix |
+| Evaluation Metrics | Accuracy, Precision, Recall, F1-Score |
+| Statistical Functions | `glm()` |
+| Model Family | Binomial Logistic Regression |
+
+---
+
+# Features
+
+- Historical weather data analysis
+- Rainfall prediction using Logistic Regression
+- Binary classification (Rain / No Rain)
+- Weather parameter-based prediction system
+- Data preprocessing and feature selection
+- Threshold-based rainfall probability classification
+- Accuracy, Precision, Recall & F1-score evaluation
+- Confusion matrix generation and analysis
+- Scatter plot visualization for rainfall trends
+- Simple and efficient machine learning workflow
+
+---
