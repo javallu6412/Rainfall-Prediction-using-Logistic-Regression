@@ -1,0 +1,39 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R package files
+.Rcheck/
+packrat/
+renv/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# CSV exports
+*.csv~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# Zip files
+*.zip
