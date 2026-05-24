@@ -17,23 +17,13 @@
 
 # The Problem
 
-Most traditional weather forecasting systems rely heavily on meteorological calculations and manual analysis. These approaches often fail to provide highly accurate rainfall predictions due to changing climate conditions and complex atmospheric patterns.
+Most traditional rainfall prediction systems rely on meteorological calculations, historical observations, or manual weather analysis. These approaches often struggle to accurately predict rainfall due to changing climate conditions and complex atmospheric patterns.
 
-Rainfall prediction plays an important role in:
-
-- Agriculture
-- Flood prevention
-- Disaster management
-- Water resource planning
-- Environmental monitoring
-
-The challenge is not just analyzing weather conditions —
-
-> **It is predicting rainfall occurrence from historical weather patterns using machine learning.**
+Rainfall forecasting is extremely important across agriculture, flood prevention, disaster management, and environmental monitoring systems. The real challenge is not just analyzing weather conditions — it is predicting rainfall occurrence accurately using weather parameters and historical data.
 
 This project answers a different question than traditional forecasting systems:
 
-> Not *“What is the weather today?”*  
-> But *“Based on weather parameters, will rainfall occur?”*
+> Not *“What does the weather look like?”*  
+> But *“Based on weather conditions, will rainfall occur?”*
 
 ---
