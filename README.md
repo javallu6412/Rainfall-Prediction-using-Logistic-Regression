@@ -88,7 +88,7 @@ Rstudio:
 
 ---
 
-# Features
+## Features
 
 - Historical weather data analysis
 - Rainfall prediction using Logistic Regression
@@ -103,7 +103,7 @@ Rstudio:
 
 ---
 
-# Results
+## Results
 
 The rainfall prediction system was successfully developed and tested using Logistic Regression in RStudio with historical weather datasets.
 
@@ -150,3 +150,36 @@ The results showed strong rainfall detection capability with high recall perform
 The visualization outputs helped analyze rainfall probability patterns and evaluate overall model performance.
 
 ---
+
+## Usage
+
+1. Place both the following files inside the same project folder:
+
+- `rainfall_prediction.R`
+- `weather_forecast_data.csv`
+
+2. Open the project folder in **RStudio**.
+
+3. Run the R script:
+
+- Go to **Sessions**, then **Set Working Directory** and select **Source File Location**
+- Click on **Source**
+
+4. The system will:
+
+- Load the CSV weather dataset
+- Preprocess the data
+- Train the Logistic Regression model
+- Predict rainfall probability
+- Generate evaluation metrics
+- Display visualization plots
+
+---
+
+## Author
+
+- **Joseph Alex Valluvassery**
+
+**School of Electronics Engineering**  
+Vellore Institute of Technology, Chennai  
+November 2024
