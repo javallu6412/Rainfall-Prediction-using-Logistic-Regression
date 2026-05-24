@@ -1,16 +1,17 @@
 # Rainfall Prediction using Logistic Regression
 
-![R](https://img.shields.io/badge/R-Programming-blue?style=flat-square)
-![RStudio](https://img.shields.io/badge/RStudio-IDE-red?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green?style=flat-square)
-![Weather Forecasting](https://img.shields.io/badge/Weather-Forecasting-yellow?style=flat-square)
-![Classification](https://img.shields.io/badge/Binary-Classification-blue?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data-Visualization-red?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/R-Programming+-blue">
+  <img src="https://img.shields.io/badge/RStudion-IDE-red">
+  <img src="https://img.shields.io/badge/DistilBERT-NLP-green">
+  <img src="https://img.shields.io/badge/Machine_Learing-Logistic_Regression-yellow">
+  <img src="https://img.shields.io/badge/Weather-Forecasting-blue">
+  <img src="https://img.shields.io/badge/Data-Visualization-red">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
 
-> **Probability and Statistics Project — VIT Chennai, November 2024**
-
-**Joseph Alex Valluvassery**
+> ### Probability and Statistics — VIT Chennai, November 2024
+> **Joseph Alex Valluvassery**
 
 ---
 
