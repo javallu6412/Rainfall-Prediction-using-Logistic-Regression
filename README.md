@@ -57,7 +57,11 @@ The system works using a machine learning workflow with multiple processing stag
 
 - **Evaluation Stage** — Calculates Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
 
-The architecture enables efficient rainfall prediction using historical weather patterns and statistical machine learning techniques.
+Rstudio:
+
+<p align="center">
+  <img src="assets/Rstudio.png" width="900"/>
+</p>
 
 ---
 
@@ -105,6 +109,10 @@ The rainfall prediction system was successfully developed and tested using Logis
 
 The system demonstrated effective rainfall classification by analyzing weather parameters such as temperature, humidity, wind speed, cloud cover, and atmospheric pressure.
 
+<p align="center">
+  <img src="assets/new_weather.png" width="900"/>
+</p>
+
 The trained model achieved:
 
 - **Accuracy:** 87.4%
@@ -123,9 +131,21 @@ The results showed strong rainfall detection capability with high recall perform
 ### Visualization Results:
 
 - Scatter Plot: Probability vs Temperature
+  <p>
+  <img src="assets/G1.png" />
+  </p>
 - Scatter Plot: Probability vs Humidity
+  <p>
+  <img src="assets/G2.png" />
+  </p>
 - Predicted vs Actual Rainfall Visualization
+  <p>
+  <img src="assets/G3.png" />
+  </p>
 - Confusion Matrix Plot
+  <p>
+  <img src="assets/G4.png" />
+  </p>
 
 The visualization outputs helped analyze rainfall probability patterns and evaluate overall model performance.
 
