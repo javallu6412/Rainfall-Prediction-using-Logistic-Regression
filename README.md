@@ -163,7 +163,7 @@ The visualization outputs helped analyze rainfall probability patterns and evalu
 3. Run the R script:
 
 - Go to **Sessions**, then **Set Working Directory** and select **Source File Location**
-- Click on **Source**
+- Click **Source** to run the program
 
 4. The system will:
 
