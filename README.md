@@ -1,12 +1,12 @@
 # Rainfall Prediction using Logistic Regression
 
 ![R](https://img.shields.io/badge/R-Programming-blue?style=flat-square)
-![RStudio](https://img.shields.io/badge/RStudio-IDE-blue?style=flat-square)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-red?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green?style=flat-square)
 ![Weather Forecasting](https://img.shields.io/badge/Weather-Forecasting-yellow?style=flat-square)
-![Classification](https://img.shields.io/badge/Binary-Classification-red?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data-Visualization-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
+![Classification](https://img.shields.io/badge/Binary-Classification-blue?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data-Visualization-red?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 > **Probability and Statistics Project — VIT Chennai, November 2024**
 
