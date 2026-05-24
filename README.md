@@ -15,7 +15,7 @@
 
 ---
 
-# The Problem
+## The Problem
 
 Most traditional rainfall prediction systems rely on meteorological calculations, historical observations, or manual weather analysis. These approaches often struggle to accurately predict rainfall due to changing climate conditions and complex atmospheric patterns.
 
