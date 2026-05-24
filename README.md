@@ -107,10 +107,9 @@ The system demonstrated effective rainfall classification by analyzing weather p
 
 The trained model achieved:
 
-- **Accuracy:** 87.4%
-- **Precision:** 55.2%
-- **Recall:** 96.1%
-- **F1-Score:** 70.1%
+<p align="center">
+  <img src="assets/output.png" />
+</p>
 
 The results showed strong rainfall detection capability with high recall performance, making the system suitable for weather forecasting and environmental analysis applications.
 
