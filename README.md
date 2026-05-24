@@ -45,29 +45,6 @@ This project is a machine learning-based rainfall prediction system that:
 
 ## How It Works
 
-```text
-Weather Dataset
-        ↓
-Data Preprocessing
-(Missing Values + Binary Conversion)
-        ↓
-Feature Selection
-(Temperature, Humidity, Wind Speed,
- Cloud Cover, Pressure)
-        ↓
-Train/Test Split (80:20)
-        ↓
-Logistic Regression Model
-(Rainfall Classification)
-        ↓
-Rainfall Probability Prediction
-        ↓
-Threshold Adjustment
-(0.3 Classification Threshold)
-        ↓
-Model Evaluation & Visualization
-```
-
 The system works using a machine learning workflow with multiple processing stages:
 
 - **Data Collection Stage** — Loads historical weather data from CSV datasets
@@ -81,5 +58,11 @@ The system works using a machine learning workflow with multiple processing stag
 - **Evaluation Stage** — Calculates Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
 
 The architecture enables efficient rainfall prediction using historical weather patterns and statistical machine learning techniques.
+
+---
+
+## Architecture
+
+![Real-Time Scam Detection Architecture](assets/architecture.png)
 
 ---
