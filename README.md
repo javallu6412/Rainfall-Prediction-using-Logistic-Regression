@@ -132,15 +132,15 @@ The results showed strong rainfall detection capability with high recall perform
 
 - Scatter Plot: Probability vs Temperature
   <p>
-  <img src="assets/G1.png" />
+  <img src="assets/G2.png" />
   </p>
 - Scatter Plot: Probability vs Humidity
   <p>
-  <img src="assets/G2.png" />
+  <img src="assets/G3.png" />
   </p>
 - Predicted vs Actual Rainfall Visualization
   <p>
-  <img src="assets/G3.png" />
+  <img src="assets/G1.png" />
   </p>
 - Confusion Matrix Plot
   <p>
