@@ -116,7 +116,7 @@ The results showed strong rainfall detection capability with high recall perform
 
 ### Confusion Matrix:
 
-<p align="center">
+<p>
   <img src="assets/Output.png" />
 </p>
 
