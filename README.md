@@ -98,3 +98,39 @@ The architecture enables efficient rainfall prediction using historical weather 
 - Simple and efficient machine learning workflow
 
 ---
+
+# Results
+
+The rainfall prediction system was successfully developed and tested using Logistic Regression in RStudio with historical weather datasets.
+
+The system demonstrated effective rainfall classification by analyzing weather parameters such as temperature, humidity, wind speed, cloud cover, and atmospheric pressure.
+
+The trained model achieved:
+
+- **Accuracy:** 87.4%
+- **Precision:** 55.2%
+- **Recall:** 96.1%
+- **F1-Score:** 70.1%
+
+The results showed strong rainfall detection capability with high recall performance, making the system suitable for weather forecasting and environmental analysis applications.
+
+### Confusion Matrix:
+
+```text
+                Predicted
+               0        1
+
+Actual 0      363      60
+Actual 1        3      74
+```
+
+### Visualization Results:
+
+- Scatter Plot: Probability vs Temperature
+- Scatter Plot: Probability vs Humidity
+- Predicted vs Actual Rainfall Visualization
+- Confusion Matrix Plot
+
+The visualization outputs helped analyze rainfall probability patterns and evaluate overall model performance.
+
+---
