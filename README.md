@@ -67,7 +67,7 @@ Rstudio:
 
 ## Architecture
 
-![Real-Time Scam Detection Architecture](assets/architecture.png)
+![Rainfall Prediction Architecture](assets/architecture.png)
 
 ---
 
